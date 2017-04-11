@@ -11,3 +11,6 @@ else:
         a, b = b, a + b
     print(a)
 print("--- %s seconds ---" % (time.time() - start_time))
+
+# Your number is: 100000
+# --- 0.3441460132598877 seconds ---
